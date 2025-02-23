@@ -55,11 +55,5 @@ Se quiser contribuir com melhorias para este projeto, siga os passos:
    ```
 5. Abra um **Pull Request** no GitHub.
 
-## 🛡️ Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo conforme necessário.
-
----
-
 Feito com ❤️ por Tamara Farias
 
